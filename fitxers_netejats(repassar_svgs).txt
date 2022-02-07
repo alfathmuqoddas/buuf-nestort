@@ -1,0 +1,1101 @@
+svgs esborrats:
+rm 'actions/dontknow.svg'
+rm 'actions/help-keybord-shortcuts.svg'
+rm 'animations/nm-stage01-connecting01.svg'
+rm 'animations/nm-stage01-connecting02.svg'
+rm 'animations/nm-stage01-connecting03.svg'
+rm 'animations/nm-stage01-connecting04.svg'
+rm 'animations/nm-stage01-connecting05.svg'
+rm 'animations/nm-stage01-connecting06.svg'
+rm 'animations/nm-stage01-connecting07.svg'
+rm 'animations/nm-stage01-connecting08.svg'
+rm 'animations/nm-stage01-connecting09.svg'
+rm 'animations/nm-stage01-connecting10.svg'
+rm 'animations/nm-stage01-connecting11.svg'
+rm 'animations/nm-stage02-connecting01.svg'
+rm 'animations/nm-stage02-connecting02.svg'
+rm 'animations/nm-stage02-connecting03.svg'
+rm 'animations/nm-stage02-connecting04.svg'
+rm 'animations/nm-stage02-connecting05.svg'
+rm 'animations/nm-stage02-connecting06.svg'
+rm 'animations/nm-stage02-connecting07.svg'
+rm 'animations/nm-stage02-connecting08.svg'
+rm 'animations/nm-stage02-connecting09.svg'
+rm 'animations/nm-stage02-connecting10.svg'
+rm 'animations/nm-stage02-connecting11.svg'
+rm 'animations/nm-stage03-connecting01.svg'
+rm 'animations/nm-stage03-connecting02.svg'
+rm 'animations/nm-stage03-connecting03.svg'
+rm 'animations/nm-stage03-connecting04.svg'
+rm 'animations/nm-stage03-connecting05.svg'
+rm 'animations/nm-stage03-connecting06.svg'
+rm 'animations/nm-stage03-connecting07.svg'
+rm 'animations/nm-stage03-connecting08.svg'
+rm 'animations/nm-stage03-connecting09.svg'
+rm 'animations/nm-stage03-connecting10.svg'
+rm 'animations/nm-stage03-connecting11.svg'
+rm 'animations/nm-vpn-connecting01.svg'
+rm 'animations/nm-vpn-connecting02.svg'
+rm 'animations/nm-vpn-connecting03.svg'
+rm 'animations/nm-vpn-connecting04.svg'
+rm 'animations/nm-vpn-connecting05.svg'
+rm 'animations/nm-vpn-connecting06.svg'
+rm 'animations/nm-vpn-connecting07.svg'
+rm 'animations/nm-vpn-connecting08.svg'
+rm 'animations/nm-vpn-connecting09.svg'
+rm 'animations/nm-vpn-connecting10.svg'
+rm 'animations/nm-vpn-connecting11.svg'
+rm 'animations/nm-vpn-connecting12.svg'
+rm 'animations/nm-vpn-connecting13.svg'
+rm 'animations/nm-vpn-connecting14.svg'
+rm 'animations/process-working-kde.svg'
+rm 'animations/process-working.svg'
+rm 'applets/applets-template.svg'
+rm 'applets/org.kde.muonnotifier.svg'
+rm 'applets/org.kde.plasma.activitybar.svg'
+rm 'applets/org.kde.plasma.comic.svg'
+rm 'applets/org.kde.plasma.devicenotifier.svg'
+rm 'applets/org.kde.plasma.digitalclock.svg'
+rm 'applets/org.kde.plasma.diskquota.svg'
+rm 'applets/org.kde.plasma.fifteenpuzzle.svg'
+rm 'applets/org.kde.plasma.folder.svg'
+rm 'applets/org.kde.plasma.frame.svg'
+rm 'applets/org.kde.plasma.fuzzyclock.svg'
+rm 'applets/org.kde.plasma.icontasks.svg'
+rm 'applets/org.kde.plasma.kicker.svg'
+rm 'applets/org.kde.plasma.kickerdash.svg'
+rm 'applets/org.kde.plasma.kickoff.svg'
+rm 'applets/org.kde.plasma.mediacontroller.svg'
+rm 'applets/org.kde.plasma.networkmanagement.svg'
+rm 'applets/org.kde.plasma.notes.svg'
+rm 'applets/org.kde.plasma.pager.svg'
+rm 'applets/org.kde.plasma.quicklaunch.svg'
+rm 'applets/org.kde.plasma.showActivityManager.svg'
+rm 'applets/org.kde.plasma.systemloadviewer.svg'
+rm 'applets/org.kde.plasma.systemmonitor.cpu.svg'
+rm 'applets/org.kde.plasma.systemmonitor.diskactivity.svg'
+rm 'applets/org.kde.plasma.systemmonitor.diskusage.svg'
+rm 'applets/org.kde.plasma.systemmonitor.memory.svg'
+rm 'applets/org.kde.plasma.systemmonitor.net.svg'
+rm 'applets/org.kde.plasma.systemtray.svg'
+rm 'applets/org.kde.plasma.taskmanager.svg'
+rm 'applets/org.kde.plasma.timer.svg'
+rm 'applets/org.kde.plasma.userswitcher.svg'
+rm 'applets/org.kde.plasma.vault.svg'
+rm 'applets/org.kde.plasma.volume.svg'
+rm 'applets/org.kde.plasma.windowlist.svg'
+rm 'apps/amarok_change_language.svg'
+rm 'apps/kaccess.svg'
+rm 'apps/krunner.svg'
+rm 'apps/ksmserver.svg'
+rm 'apps/org.freedesktop.fwupd.svg'
+rm 'apps/org.kde.kubrick.svg'
+rm 'apps/org.kde.kwordquiz.svg'
+rm 'apps/org.kde.palapeli.svg'
+rm 'apps/org.kde.skrooge.svg'
+rm 'apps/preferences-system-network-iscsi.svg'
+rm 'apps/preferences-system-network-server-boot.svg'
+rm 'apps/preferences-system-network-server-dhcp.svg'
+rm 'apps/preferences-system-network-server-dns.svg'
+rm 'apps/preferences-system-network-server-ftp.svg'
+rm 'apps/preferences-system-network-server-installation.svg'
+rm 'apps/preferences-system-network-server-iscsi.svg'
+rm 'apps/preferences-system-network-server-kerberos.svg'
+rm 'apps/preferences-system-network-server-ldap.svg'
+rm 'apps/preferences-system-network-server-mail.svg'
+rm 'apps/preferences-system-network-server-nis.svg'
+rm 'apps/preferences-system-network-server-share-windows.svg'
+rm 'apps/preferences-system-network-server-share.svg'
+rm 'apps/preferences-system-network-server-slp.svg'
+rm 'apps/preferences-system-network-server-web.svg'
+rm 'apps/preferences-virtualization-vm-install.svg'
+rm 'apps/preferences-virtualization-vm-migrate.svg'
+rm 'apps/preferences-virtualization-vm-new.svg'
+rm 'apps/preferences-virtualization-vm.svg'
+rm 'apps/r.svg'
+rm 'apps/retroarch.svg'
+rm 'apps/rpi-imager.svg'
+rm 'apps/rpi.svg'
+rm 'apps/system-help.svg'
+rm 'apps/system-lock-screen.svg'
+rm 'apps/ubiquity-kde.svg'
+rm 'apps/ubiquity.svg'
+rm 'apps/window-duplicate.svg'
+rm 'apps/yast-addon-extension.svg'
+rm 'apps/yast-addon.svg'
+rm 'apps/yast-alternatives.svg'
+rm 'apps/yast-apparmor.svg'
+rm 'apps/yast-auth-client.svg'
+rm 'apps/yast-autoyast.svg'
+rm 'apps/yast-bootloader.svg'
+rm 'apps/yast-checkmedia.svg'
+rm 'apps/yast-create-new-vm.svg'
+rm 'apps/yast-device-tree.svg'
+rm 'apps/yast-dhcp-server.svg'
+rm 'apps/yast-disk.svg'
+rm 'apps/yast-dns-server.svg'
+rm 'apps/yast-docker.svg'
+rm 'apps/yast-dsl.svg'
+rm 'apps/yast-fcoe.svg'
+rm 'apps/yast-firewall.svg'
+rm 'apps/yast-fonts.svg'
+rm 'apps/yast-ftp-server.svg'
+rm 'apps/yast-hardware-group.svg'
+rm 'apps/yast-high_availability-group.svg'
+rm 'apps/yast-host.svg'
+rm 'apps/yast-http-server.svg'
+rm 'apps/yast-hwinfo.svg'
+rm 'apps/yast-image-deployment.svg'
+rm 'apps/yast-installation.svg'
+rm 'apps/yast-instserver.svg'
+rm 'apps/yast-iscsi-client.svg'
+rm 'apps/yast-iscsi-server.svg'
+rm 'apps/yast-journal.svg'
+rm 'apps/yast-kerberos-server.svg'
+rm 'apps/yast-keyboard.svg'
+rm 'apps/yast-lan.svg'
+rm 'apps/yast-ldap-kerberos.svg'
+rm 'apps/yast-ldap-server.svg'
+rm 'apps/yast-license.svg'
+rm 'apps/yast-mail.svg'
+rm 'apps/yast-messages.svg'
+rm 'apps/yast-misc-group.svg'
+rm 'apps/yast-network-group.svg'
+rm 'apps/yast-nfs-server.svg'
+rm 'apps/yast-nfs.svg'
+rm 'apps/yast-nis-server.svg'
+rm 'apps/yast-nis.svg'
+rm 'apps/yast-ntp-client.svg'
+rm 'apps/yast-oneclick.svg'
+rm 'apps/yast-printer.svg'
+rm 'apps/yast-proxy.svg'
+rm 'apps/yast-release-notes.svg'
+rm 'apps/yast-remote-chooser.svg'
+rm 'apps/yast-remote-install.svg'
+rm 'apps/yast-remote.svg'
+rm 'apps/yast-samba-client.svg'
+rm 'apps/yast-samba-server.svg'
+rm 'apps/yast-scanner.svg'
+rm 'apps/yast-security-group.svg'
+rm 'apps/yast-security.svg'
+rm 'apps/yast-services-manager.svg'
+rm 'apps/yast-slp-server.svg'
+rm 'apps/yast-snapper.svg'
+rm 'apps/yast-software-group.svg'
+rm 'apps/yast-software.svg'
+rm 'apps/yast-sound.svg'
+rm 'apps/yast-ssh-import.svg'
+rm 'apps/yast-sudo.svg'
+rm 'apps/yast-support-group.svg'
+rm 'apps/yast-support.svg'
+rm 'apps/yast-sysconfig.svg'
+rm 'apps/yast-system-group.svg'
+rm 'apps/yast-tftp-server.svg'
+rm 'apps/yast-timezone.svg'
+rm 'apps/yast-update-online-configuration.svg'
+rm 'apps/yast-update-online.svg'
+rm 'apps/yast-update.svg'
+rm 'apps/yast-upgrade.svg'
+rm 'apps/yast-users-system.svg'
+rm 'apps/yast-users.svg'
+rm 'apps/yast-vm-group.svg'
+rm 'apps/yast-vm-install.svg'
+rm 'apps/yast-vm-migrate.svg'
+rm 'apps/yast-vpn.svg'
+rm 'apps/yast-wol.svg'
+rm 'devices/display-projector-symbolic.svg'
+rm 'devices/drive-multidisk-alt-symbolic.svg'
+rm 'devices/drive-multidisk-alt2-symbolic.svg'
+rm 'devices/headphones-symbolic.svg'
+rm 'devices/input-keyboard-virtual.svg'
+rm 'devices/multimedia-player-ipod-mini-blue.svg'
+rm 'devices/network-card.svg'
+rm 'devices/network-cellular-symbolic.svg'
+rm 'devices/video-joined-displays-symbolic.svg'
+rm 'devices/video-single-display-symbolic.svg'
+rm 'emotes/face-angel-symbolic.svg'
+rm 'emotes/face-angry-symbolic.svg'
+rm 'emotes/face-confused-symbolic.svg'
+rm 'emotes/face-cool-symbolic.svg'
+rm 'emotes/face-crying-symbolic.svg'
+rm 'emotes/face-devilish-symbolic.svg'
+rm 'emotes/face-embarrassed-symbolic.svg'
+rm 'emotes/face-kiss-symbolic.svg'
+rm 'emotes/face-laugh-symbolic.svg'
+rm 'emotes/face-monkey-symbolic.svg'
+rm 'emotes/face-plain-symbolic.svg'
+rm 'emotes/face-raspberry-symbolic.svg'
+rm 'emotes/face-sad-symbolic.svg'
+rm 'emotes/face-shutmouth-symbolic.svg'
+rm 'emotes/face-sick-symbolic.svg'
+rm 'emotes/face-smile-big-symbolic.svg'
+rm 'emotes/face-smile-symbolic.svg'
+rm 'emotes/face-smirk-symbolic.svg'
+rm 'emotes/face-surprised-symbolic.svg'
+rm 'emotes/face-tired-symbolic.svg'
+rm 'emotes/face-uncertain-symbolic.svg'
+rm 'emotes/face-wink-symbolic.svg'
+rm 'emotes/face-worried-symbolic.svg'
+rm 'emotes/face-yawn-symbolic.svg'
+rm 'mimetypes/application-x-appliance-symbolic.svg'
+rm 'status/contact-new-symbolic.svg'
+rm 'status/daytime-sunrise-symbolic.svg'
+rm 'status/daytime-sunset-symbolic.svg'
+rm 'status/disk-quota-critical.svg'
+rm 'status/disk-quota-high.svg'
+rm 'status/disk-quota-low.svg'
+rm 'status/disk-quota.svg'
+rm 'status/haguichi-connected.svg'
+rm 'status/haguichi-connecting-1.svg'
+rm 'status/haguichi-connecting-2.svg'
+rm 'status/haguichi-connecting-3.svg'
+rm 'status/haguichi-disconnected.svg'
+rm 'status/keepassxc-locked.svg'
+rm 'status/keepassxc-monochrome-light-locked.svg'
+rm 'status/keepassxc-monochrome-light.svg'
+rm 'status/keepassxc-unlocked.svg'
+rm 'status/keyboard-brightness-symbolic.svg'
+rm 'status/media-playlist-consecutive-rtl-symbolic.svg'
+rm 'status/media-playlist-consecutive-symbolic-rtl.svg'
+rm 'status/media-playlist-consecutive-symbolic.svg'
+rm 'status/media-playlist-repeat-rtl-symbolic.svg'
+rm 'status/media-playlist-repeat-song-rtl-symbolic.svg'
+rm 'status/media-playlist-repeat-song-symbolic-rtl.svg'
+rm 'status/media-playlist-repeat-song-symbolic.svg'
+rm 'status/media-playlist-repeat-symbolic-rtl.svg'
+rm 'status/media-playlist-shuffle-rtl-symbolic.svg'
+rm 'status/media-playlist-shuffle-symbolic-rtl.svg'
+rm 'status/network-wired-no-route-symbolic.svg'
+rm 'status/network-wired-offline-symbolic.svg'
+rm 'status/night-light-symbolic.svg'
+rm 'status/pidgin-tray-available.svg'
+rm 'status/pidgin-tray-away.svg'
+rm 'status/pidgin-tray-busy.svg'
+rm 'status/pidgin-tray-email.svg'
+rm 'status/pidgin-tray-invisible.svg'
+rm 'status/pidgin-tray-offline.svg'
+rm 'status/pidgin-tray-pending.svg'
+rm 'status/pidgin-tray-xa.svg'
+rm 'status/rating-unrated.svg'
+rm 'status/remmina-panel-inverted.svg'
+rm 'status/remmina-panel.svg'
+rm 'status/system-lock-screen-symbolic.svg'
+rm 'status/thunderbolt-acquiring-symbolic.svg'
+rm 'status/touch-disabled-symbolic.svg'
+rm 'status/user-not-tracked-symbolic.svg'
+rm 'status/user-status-pending-symbolic.svg'
+rm 'status/view-wrapped-rtl-symbolic.svg'
+rm 'status/view-wrapped-symbolic-rtl.svg'
+rm 'status/view-wrapped-symbolic.svg'
+rm 'status/weather-tornado-symbolic.svg'
+rm 'status/weather-windy-symbolic.svg'
+
+
+
+
+
+
+
+
+
+
+Canvis fets:
+
+ 788 files changed, 316 insertions(+), 30267 deletions(-)
+ delete mode 100644 actions/dontknow.svg
+ delete mode 120000 actions/help-keybord-shortcuts.svg
+ delete mode 100755 animations/nm-stage01-connecting01.svg
+ delete mode 100755 animations/nm-stage01-connecting02.svg
+ delete mode 100755 animations/nm-stage01-connecting03.svg
+ delete mode 100755 animations/nm-stage01-connecting04.svg
+ delete mode 100755 animations/nm-stage01-connecting05.svg
+ delete mode 100755 animations/nm-stage01-connecting06.svg
+ delete mode 100755 animations/nm-stage01-connecting07.svg
+ delete mode 100755 animations/nm-stage01-connecting08.svg
+ delete mode 100755 animations/nm-stage01-connecting09.svg
+ delete mode 100755 animations/nm-stage01-connecting10.svg
+ delete mode 100755 animations/nm-stage01-connecting11.svg
+ delete mode 120000 animations/nm-stage02-connecting01.svg
+ delete mode 120000 animations/nm-stage02-connecting02.svg
+ delete mode 120000 animations/nm-stage02-connecting03.svg
+ delete mode 120000 animations/nm-stage02-connecting04.svg
+ delete mode 120000 animations/nm-stage02-connecting05.svg
+ delete mode 120000 animations/nm-stage02-connecting06.svg
+ delete mode 120000 animations/nm-stage02-connecting07.svg
+ delete mode 120000 animations/nm-stage02-connecting08.svg
+ delete mode 120000 animations/nm-stage02-connecting09.svg
+ delete mode 120000 animations/nm-stage02-connecting10.svg
+ delete mode 120000 animations/nm-stage02-connecting11.svg
+ delete mode 120000 animations/nm-stage03-connecting01.svg
+ delete mode 120000 animations/nm-stage03-connecting02.svg
+ delete mode 120000 animations/nm-stage03-connecting03.svg
+ delete mode 120000 animations/nm-stage03-connecting04.svg
+ delete mode 120000 animations/nm-stage03-connecting05.svg
+ delete mode 120000 animations/nm-stage03-connecting06.svg
+ delete mode 120000 animations/nm-stage03-connecting07.svg
+ delete mode 120000 animations/nm-stage03-connecting08.svg
+ delete mode 120000 animations/nm-stage03-connecting09.svg
+ delete mode 120000 animations/nm-stage03-connecting10.svg
+ delete mode 120000 animations/nm-stage03-connecting11.svg
+ delete mode 100755 animations/nm-vpn-connecting01.svg
+ delete mode 100755 animations/nm-vpn-connecting02.svg
+ delete mode 100755 animations/nm-vpn-connecting03.svg
+ delete mode 100755 animations/nm-vpn-connecting04.svg
+ delete mode 100755 animations/nm-vpn-connecting05.svg
+ delete mode 100755 animations/nm-vpn-connecting06.svg
+ delete mode 100755 animations/nm-vpn-connecting07.svg
+ delete mode 100755 animations/nm-vpn-connecting08.svg
+ delete mode 100755 animations/nm-vpn-connecting09.svg
+ delete mode 100755 animations/nm-vpn-connecting10.svg
+ delete mode 100755 animations/nm-vpn-connecting11.svg
+ delete mode 100755 animations/nm-vpn-connecting12.svg
+ delete mode 100755 animations/nm-vpn-connecting13.svg
+ delete mode 100755 animations/nm-vpn-connecting14.svg
+ delete mode 120000 animations/process-working-kde.svg
+ delete mode 100755 animations/process-working.svg
+ delete mode 100644 applets/applets-template.svg
+ delete mode 100644 applets/org.kde.muonnotifier.svg
+ delete mode 100644 applets/org.kde.plasma.activitybar.svg
+ delete mode 100644 applets/org.kde.plasma.comic.svg
+ delete mode 100644 applets/org.kde.plasma.devicenotifier.svg
+ delete mode 100644 applets/org.kde.plasma.digitalclock.svg
+ delete mode 100644 applets/org.kde.plasma.diskquota.svg
+ delete mode 100644 applets/org.kde.plasma.fifteenpuzzle.svg
+ delete mode 100644 applets/org.kde.plasma.folder.svg
+ delete mode 100644 applets/org.kde.plasma.frame.svg
+ delete mode 100644 applets/org.kde.plasma.fuzzyclock.svg
+ delete mode 100644 applets/org.kde.plasma.icontasks.svg
+ delete mode 100644 applets/org.kde.plasma.kicker.svg
+ delete mode 100644 applets/org.kde.plasma.kickerdash.svg
+ delete mode 100644 applets/org.kde.plasma.kickoff.svg
+ delete mode 100644 applets/org.kde.plasma.mediacontroller.svg
+ delete mode 100644 applets/org.kde.plasma.networkmanagement.svg
+ delete mode 100644 applets/org.kde.plasma.notes.svg
+ delete mode 100644 applets/org.kde.plasma.pager.svg
+ delete mode 100644 applets/org.kde.plasma.quicklaunch.svg
+ delete mode 100644 applets/org.kde.plasma.showActivityManager.svg
+ delete mode 100644 applets/org.kde.plasma.systemloadviewer.svg
+ delete mode 100644 applets/org.kde.plasma.systemmonitor.cpu.svg
+ delete mode 100644 applets/org.kde.plasma.systemmonitor.diskactivity.svg
+ delete mode 100644 applets/org.kde.plasma.systemmonitor.diskusage.svg
+ delete mode 100644 applets/org.kde.plasma.systemmonitor.memory.svg
+ delete mode 100644 applets/org.kde.plasma.systemmonitor.net.svg
+ delete mode 100644 applets/org.kde.plasma.systemtray.svg
+ delete mode 100644 applets/org.kde.plasma.taskmanager.svg
+ delete mode 100644 applets/org.kde.plasma.timer.svg
+ delete mode 100644 applets/org.kde.plasma.userswitcher.svg
+ delete mode 100644 applets/org.kde.plasma.vault.svg
+ delete mode 100644 applets/org.kde.plasma.volume.svg
+ delete mode 100644 applets/org.kde.plasma.windowlist.svg
+ rewrite apps/SUSEgreeter.png (100%)
+ mode change 100644 => 120000
+ rewrite apps/Support.png (100%)
+ mode change 100644 => 120000
+ delete mode 120000 apps/amarok_change_language.svg
+ create mode 120000 apps/com.slack.Slack.png
+ create mode 120000 apps/com.visualstudio.code.insiders.png
+ rewrite apps/com.visualstudio.code.png (99%)
+ create mode 120000 apps/com.vscodium.codium.png
+ create mode 120000 apps/cs-backgrounds.png
+ create mode 120000 apps/cs-bluetooth.png
+ create mode 120000 apps/cs-cat-admin.png
+ create mode 120000 apps/cs-cat-appearance.png
+ create mode 120000 apps/cs-cat-hardware.png
+ create mode 120000 apps/cs-cat-prefs.png
+ create mode 120000 apps/cs-color.png
+ create mode 120000 apps/cs-date-time.png
+ create mode 120000 apps/cs-desktop-effects.png
+ create mode 120000 apps/cs-desktop.png
+ create mode 120000 apps/cs-display.png
+ create mode 120000 apps/cs-drivers.png
+ create mode 120000 apps/cs-extensions.png
+ create mode 120000 apps/cs-firewall.png
+ create mode 120000 apps/cs-fonts.png
+ create mode 120000 apps/cs-general.png
+ create mode 120000 apps/cs-input-method.png
+ create mode 120000 apps/cs-keyboard.png
+ create mode 120000 apps/cs-language.png
+ create mode 120000 apps/cs-login.png
+ create mode 120000 apps/cs-mouse.png
+ create mode 120000 apps/cs-network.png
+ create mode 120000 apps/cs-notifications.png
+ create mode 100644 apps/cs-online-accounts.png
+ create mode 120000 apps/cs-overview.png
+ create mode 100755 apps/cs-panel.png
+ create mode 120000 apps/cs-power.png
+ create mode 120000 apps/cs-printer.png
+ create mode 120000 apps/cs-privacy.png
+ create mode 120000 apps/cs-region.png
+ create mode 120000 apps/cs-screensaver.png
+ create mode 120000 apps/cs-software-properties.png
+ create mode 120000 apps/cs-sound.png
+ create mode 120000 apps/cs-sources.png
+ create mode 120000 apps/cs-startup-programs.png
+ create mode 120000 apps/cs-tablet.png
+ create mode 120000 apps/cs-themes.png
+ create mode 100644 apps/cs-tiling.png
+ create mode 120000 apps/cs-universal-access.png
+ create mode 120000 apps/cs-user-accounts.png
+ create mode 100755 apps/cs-user.png
+ create mode 120000 apps/cs-windows.png
+ create mode 120000 apps/cs-workspaces.png
+ create mode 120000 apps/cs-workswpaces.png
+ create mode 100644 apps/flameshot.png
+ create mode 120000 apps/freecad-daily.png
+ create mode 100644 apps/freecad.png
+ create mode 120000 apps/geary.png
+ create mode 120000 apps/gitg.png
+ create mode 120000 apps/gnome-maps.png
+ delete mode 120000 apps/kaccess.svg
+ create mode 120000 apps/kde-telepathy.png
+ create mode 100644 apps/kicad.png
+ delete mode 120000 apps/krunner.svg
+ delete mode 120000 apps/ksmserver.svg
+ rewrite apps/kweather.png (99%)
+ create mode 120000 apps/latte-dock.png
+ create mode 120000 apps/lollypop.png
+ create mode 120000 apps/org.flameshot.Flameshot.png
+ create mode 120000 apps/org.freecadweb.FreeCAD.png
+ delete mode 100644 apps/org.freedesktop.fwupd.svg
+ create mode 120000 apps/org.gnome.Books.png
+ create mode 120000 apps/org.gnome.Calendar.png
+ create mode 120000 apps/org.gnome.Cheese.png
+ create mode 120000 apps/org.gnome.Clocks.png
+ create mode 120000 apps/org.gnome.Contacts.png
+ create mode 120000 apps/org.gnome.DejaDup.png
+ create mode 120000 apps/org.gnome.DiskUtility-symbolic.png
+ delete mode 100644 apps/org.gnome.DiskUtility-symbolic.svg
+ create mode 120000 apps/org.gnome.EasyTAG.png
+ create mode 120000 apps/org.gnome.Empathy.png
+ create mode 120000 apps/org.gnome.Epiphany.png
+ create mode 120000 apps/org.gnome.Extensions.png
+ create mode 120000 apps/org.gnome.FileRoller.png
+ create mode 120000 apps/org.gnome.FontManager.png
+ create mode 120000 apps/org.gnome.FontViewer.png
+ create mode 120000 apps/org.gnome.Games.png
+ create mode 120000 apps/org.gnome.Geary-symbolic.png
+ create mode 120000 apps/org.gnome.Geary.png
+ create mode 100755 apps/org.gnome.Lollypop.png
+ create mode 120000 apps/org.gnome.Mahjongg.png
+ create mode 120000 apps/org.gnome.Maps.png
+ create mode 120000 apps/org.gnome.Mines.png
+ create mode 120000 apps/org.gnome.Photos.png
+ create mode 120000 apps/org.gnome.Quadrapassel.png
+ create mode 120000 apps/org.gnome.Rhythmbox.png
+ create mode 120000 apps/org.gnome.Rhythmbox3.png
+ create mode 120000 apps/org.gnome.Robots.png
+ create mode 120000 apps/org.gnome.Screenshot.png
+ create mode 120000 apps/org.gnome.Shell.Extensions.GSConnect-symbolic.png
+ create mode 120000 apps/org.gnome.SoundJuicer.png
+ create mode 120000 apps/org.gnome.Tomboy.png
+ create mode 120000 apps/org.gnome.Weather.Application.png
+ create mode 120000 apps/org.gnome.Weather.png
+ create mode 120000 apps/org.gnome.books.png
+ create mode 120000 apps/org.gnome.calendar.png
+ create mode 120000 apps/org.gnome.cheese.png
+ create mode 120000 apps/org.gnome.epiphany.png
+ create mode 120000 apps/org.gnome.font-viewer.png
+ create mode 120000 apps/org.gnome.gThumb.png
+ create mode 120000 apps/org.gnome.games.png
+ create mode 120000 apps/org.gnome.gbrainy.png
+ create mode 120000 apps/org.gnome.gitg.png
+ create mode 120000 apps/org.gnome.lollypop.png
+ create mode 120000 apps/org.gnome.maps.png
+ create mode 120000 apps/org.gnome.quadrapassel.png
+ create mode 120000 apps/org.gnome.weather.application.png
+ create mode 120000 apps/org.gnome.weather.png
+ create mode 120000 apps/org.gome.Files.png
+ create mode 120000 apps/org.gome.files.png
+ create mode 120000 apps/org.gtk.PrintEditor4-symbolic.png
+ create mode 120000 apps/org.gtk.PrintEditor4.Devel.png
+ create mode 100644 apps/org.gtk.PrintEditor4.png
+ delete mode 100755 apps/org.kde.kubrick.svg
+ delete mode 100755 apps/org.kde.kwordquiz.svg
+ create mode 120000 apps/org.kde.latte.analogclock.png
+ create mode 120000 apps/org.kde.latte.plasmoid.png
+ delete mode 100755 apps/org.kde.palapeli.svg
+ delete mode 100755 apps/org.kde.skrooge.svg
+ create mode 120000 apps/org.kicad.KiCad.png
+ create mode 120000 apps/org.kicad_pcb.KiCad.png
+ delete mode 100644 apps/org.remmina.Remmina.svg
+ rewrite apps/package.png (100%)
+ mode change 100755 => 120000
+ rewrite apps/package_editors.png (100%)
+ mode change 100755 => 120000
+ rewrite apps/package_favorite.png (100%)
+ mode change 100755 => 120000
+ rewrite apps/preferences-plugin-script.png (99%)
+ create mode 100755 apps/preferences-system-backup.png
+ delete mode 100644 apps/preferences-system-backup.svg
+ create mode 100644 apps/preferences-system-network-dsl.png
+ delete mode 100644 apps/preferences-system-network-dsl.svg
+ delete mode 100644 apps/preferences-system-network-iscsi.svg
+ create mode 100644 apps/preferences-system-network-ldap.png
+ delete mode 100644 apps/preferences-system-network-ldap.svg
+ create mode 100644 apps/preferences-system-network-nis.png
+ delete mode 100644 apps/preferences-system-network-nis.svg
+ create mode 100644 apps/preferences-system-network-ntp.png
+ delete mode 100644 apps/preferences-system-network-ntp.svg
+ create mode 120000 apps/preferences-system-network-proxy-symbolic.png
+ delete mode 100755 apps/preferences-system-network-proxy-symbolic.svg
+ create mode 100644 apps/preferences-system-network-proxy.png
+ delete mode 100644 apps/preferences-system-network-proxy.svg
+ create mode 120000 apps/preferences-system-network-remote.png
+ delete mode 100644 apps/preferences-system-network-remote.svg
+ delete mode 100644 apps/preferences-system-network-server-boot.svg
+ delete mode 100644 apps/preferences-system-network-server-dhcp.svg
+ delete mode 100644 apps/preferences-system-network-server-dns.svg
+ delete mode 100644 apps/preferences-system-network-server-ftp.svg
+ delete mode 100644 apps/preferences-system-network-server-installation.svg
+ delete mode 100644 apps/preferences-system-network-server-iscsi.svg
+ delete mode 100644 apps/preferences-system-network-server-kerberos.svg
+ delete mode 100644 apps/preferences-system-network-server-ldap.svg
+ delete mode 100644 apps/preferences-system-network-server-mail.svg
+ delete mode 100644 apps/preferences-system-network-server-nis.svg
+ delete mode 100644 apps/preferences-system-network-server-share-windows.svg
+ delete mode 100644 apps/preferences-system-network-server-share.svg
+ delete mode 100644 apps/preferences-system-network-server-slp.svg
+ delete mode 100644 apps/preferences-system-network-server-web.svg
+ create mode 120000 apps/preferences-system-network-server.png
+ delete mode 100644 apps/preferences-system-network-server.svg
+ create mode 100644 apps/preferences-system-network-vpn.png
+ delete mode 100644 apps/preferences-system-network-vpn.svg
+ create mode 100644 apps/preferences-system-network-wakeonlan.png
+ delete mode 100644 apps/preferences-system-network-wakeonlan.svg
+ create mode 100644 apps/preferences-system-splash.png
+ delete mode 100644 apps/preferences-system-splash.svg
+ create mode 100755 apps/preferences-system-startup.png
+ delete mode 100644 apps/preferences-system-startup.svg
+ create mode 100755 apps/preferences-system-user-sudo.png
+ delete mode 100644 apps/preferences-system-user-sudo.svg
+ rewrite apps/preferences-system-windows-actions.png (99%)
+ delete mode 100644 apps/preferences-system-windows-actions.svg
+ rewrite apps/preferences-system-windows-move.png (98%)
+ delete mode 100644 apps/preferences-system-windows-move.svg
+ delete mode 120000 apps/preferences-system.svg
+ create mode 100644 apps/preferences-virtualization-container.png
+ delete mode 100644 apps/preferences-virtualization-container.svg
+ delete mode 100644 apps/preferences-virtualization-vm-install.svg
+ delete mode 100644 apps/preferences-virtualization-vm-migrate.svg
+ delete mode 100644 apps/preferences-virtualization-vm-new.svg
+ delete mode 100644 apps/preferences-virtualization-vm.svg
+ rewrite apps/preferences-web-browser-adblock.png (99%)
+ delete mode 100644 apps/preferences-web-browser-adblock.svg
+ rewrite apps/preferences-web-browser-cache.png (99%)
+ delete mode 100644 apps/preferences-web-browser-cache.svg
+ rewrite apps/preferences-web-browser-cookies.png (99%)
+ delete mode 100644 apps/preferences-web-browser-cookies.svg
+ rewrite apps/preferences-web-browser-identification.png (99%)
+ delete mode 100644 apps/preferences-web-browser-identification.svg
+ rewrite apps/preferences-web-browser-shortcuts.png (100%)
+ mode change 100755 => 120000
+ delete mode 100644 apps/preferences-web-browser-shortcuts.svg
+ create mode 120000 apps/preferences-web-browser-ssl.png
+ delete mode 100644 apps/preferences-web-browser-ssl.svg
+ rewrite apps/preferences-web-browser-stylesheets.png (100%)
+ mode change 100755 => 120000
+ delete mode 100644 apps/preferences-web-browser-stylesheets.svg
+ rewrite apps/previewer.png (100%)
+ mode change 100755 => 120000
+ rewrite apps/qalculate-applet.png (100%)
+ mode change 100755 => 120000
+ rewrite apps/qalculate.png (99%)
+ rewrite apps/quiterss.png (99%)
+ delete mode 100644 apps/r.svg
+ delete mode 100644 apps/retroarch.svg
+ create mode 120000 apps/retropie.png
+ delete mode 100644 apps/retropie.svg
+ create mode 120000 apps/ring-kde.png
+ delete mode 120000 apps/ring-kde.svg
+ create mode 100644 apps/ring.png
+ delete mode 100644 apps/ring.svg
+ rewrite apps/rosegarden.png (99%)
+ delete mode 120000 apps/rpi-imager.svg
+ delete mode 120000 apps/rpi.svg
+ create mode 120000 apps/scratch-desktop.png
+ delete mode 120000 apps/scratch-desktop.svg
+ rewrite apps/scratch.png (99%)
+ delete mode 100644 apps/scratch.svg
+ create mode 120000 apps/scratch2.png
+ delete mode 120000 apps/scratch2.svg
+ rewrite apps/screenruler-icon.png (100%)
+ mode change 100755 => 120000
+ delete mode 100755 apps/shotwell.svg
+ rewrite apps/showfoto.png (99%)
+ delete mode 100644 apps/showfoto.svg
+ create mode 120000 apps/signal-desktop-beta.png
+ delete mode 120000 apps/signal-desktop-beta.svg
+ create mode 100644 apps/signal-desktop.png
+ delete mode 100644 apps/signal-desktop.svg
+ create mode 100644 apps/slack.png
+ delete mode 100644 apps/slack.svg
+ delete mode 100644 apps/smplayer.svg
+ rewrite apps/squeeze.png (97%)
+ delete mode 100755 apps/startupmanager.svg
+ create mode 120000 apps/steam-icon.png
+ create mode 120000 apps/steam-launcher.png
+ create mode 120000 apps/steam_tray_mono.png
+ create mode 120000 apps/steamos-logo-icon.png
+ create mode 120000 apps/steampowered.png
+ rewrite apps/subtitleeditor.png (97%)
+ delete mode 120000 apps/subtitleeditor.svg
+ delete mode 100644 apps/system-help.svg
+ delete mode 120000 apps/system-lock-screen.svg
+ create mode 120000 apps/teamviewer.png
+ delete mode 100644 apps/teamviewer.svg
+ rewrite apps/telepathy-kde.png (100%)
+ mode change 100755 => 120000
+ rewrite apps/telepathy.png (99%)
+ rewrite apps/truecrypt.png (99%)
+ delete mode 100644 apps/ubiquity-kde.svg
+ delete mode 100644 apps/ubiquity.svg
+ create mode 100644 apps/veracrypt.png
+ create mode 120000 apps/vsc.png
+ create mode 120000 apps/vscode.png
+ create mode 120000 apps/vscodium.png
+ delete mode 100644 apps/window-duplicate.svg
+ delete mode 120000 apps/yast-addon-extension.svg
+ delete mode 100644 apps/yast-addon.svg
+ delete mode 100644 apps/yast-alternatives.svg
+ delete mode 100644 apps/yast-apparmor.svg
+ delete mode 100644 apps/yast-auth-client.svg
+ delete mode 100644 apps/yast-autoyast.svg
+ delete mode 100644 apps/yast-bootloader.svg
+ delete mode 100644 apps/yast-checkmedia.svg
+ delete mode 120000 apps/yast-create-new-vm.svg
+ delete mode 120000 apps/yast-device-tree.svg
+ delete mode 120000 apps/yast-dhcp-server.svg
+ delete mode 100644 apps/yast-disk.svg
+ delete mode 120000 apps/yast-dns-server.svg
+ delete mode 120000 apps/yast-docker.svg
+ delete mode 120000 apps/yast-dsl.svg
+ delete mode 120000 apps/yast-fcoe.svg
+ delete mode 100644 apps/yast-firewall.svg
+ delete mode 100644 apps/yast-fonts.svg
+ delete mode 120000 apps/yast-ftp-server.svg
+ delete mode 100644 apps/yast-hardware-group.svg
+ delete mode 100644 apps/yast-high_availability-group.svg
+ delete mode 100644 apps/yast-host.svg
+ delete mode 100644 apps/yast-http-server.svg
+ delete mode 100644 apps/yast-hwinfo.svg
+ delete mode 100644 apps/yast-image-deployment.svg
+ delete mode 100644 apps/yast-installation.svg
+ delete mode 120000 apps/yast-instserver.svg
+ delete mode 100644 apps/yast-iscsi-client.svg
+ delete mode 120000 apps/yast-iscsi-server.svg
+ delete mode 100644 apps/yast-journal.svg
+ delete mode 100644 apps/yast-kerberos-server.svg
+ delete mode 100644 apps/yast-keyboard.svg
+ delete mode 100644 apps/yast-lan.svg
+ delete mode 100644 apps/yast-language.svg
+ delete mode 100644 apps/yast-ldap-kerberos.svg
+ delete mode 100644 apps/yast-ldap-server.svg
+ delete mode 100644 apps/yast-license.svg
+ delete mode 100644 apps/yast-mail.svg
+ delete mode 100644 apps/yast-messages.svg
+ delete mode 100644 apps/yast-misc-group.svg
+ delete mode 100644 apps/yast-network-group.svg
+ delete mode 120000 apps/yast-nfs-server.svg
+ delete mode 100644 apps/yast-nfs.svg
+ delete mode 120000 apps/yast-nis-server.svg
+ delete mode 100644 apps/yast-nis.svg
+ delete mode 100644 apps/yast-ntp-client.svg
+ delete mode 100644 apps/yast-oneclick.svg
+ delete mode 100644 apps/yast-printer.svg
+ delete mode 100644 apps/yast-proxy.svg
+ delete mode 100644 apps/yast-release-notes.svg
+ delete mode 100644 apps/yast-remote-chooser.svg
+ delete mode 100644 apps/yast-remote-install.svg
+ delete mode 100644 apps/yast-remote.svg
+ delete mode 100644 apps/yast-samba-client.svg
+ delete mode 100644 apps/yast-samba-server.svg
+ delete mode 100644 apps/yast-scanner.svg
+ delete mode 100644 apps/yast-security-group.svg
+ delete mode 100644 apps/yast-security.svg
+ delete mode 100644 apps/yast-services-manager.svg
+ delete mode 120000 apps/yast-slp-server.svg
+ delete mode 100644 apps/yast-snapper.svg
+ delete mode 100644 apps/yast-software-group.svg
+ delete mode 120000 apps/yast-software.svg
+ delete mode 100644 apps/yast-sound.svg
+ delete mode 100644 apps/yast-ssh-import.svg
+ delete mode 100644 apps/yast-sudo.svg
+ delete mode 100644 apps/yast-support-group.svg
+ delete mode 100644 apps/yast-support.svg
+ delete mode 100644 apps/yast-sysconfig.svg
+ delete mode 100644 apps/yast-system-group.svg
+ delete mode 100644 apps/yast-tftp-server.svg
+ delete mode 100644 apps/yast-timezone.svg
+ delete mode 100644 apps/yast-update-online-configuration.svg
+ delete mode 100644 apps/yast-update-online.svg
+ delete mode 100644 apps/yast-update.svg
+ delete mode 100644 apps/yast-upgrade.svg
+ delete mode 100644 apps/yast-users-system.svg
+ delete mode 100644 apps/yast-users.svg
+ delete mode 100644 apps/yast-vm-group.svg
+ delete mode 100644 apps/yast-vm-install.svg
+ delete mode 100644 apps/yast-vm-migrate.svg
+ delete mode 100644 apps/yast-vpn.svg
+ delete mode 120000 apps/yast-wol.svg
+ rewrite categories/applications-accessories.png (99%)
+ create mode 100644 categories/applications-all.png
+ copy categories/{applications-accessories.png => applications-utilities.png} (100%)
+ rewrite categories/gnome-applications.png (100%)
+ mode change 100755 => 120000
+ create mode 100755 change-symbolic.sh
+ create mode 120000 devices/ac-adapter-symbolic.png
+ delete mode 100644 devices/ac-adapter-symbolic.svg
+ create mode 120000 devices/auth-fingerprint-symbolic.png
+ delete mode 100644 devices/auth-fingerprint-symbolic.svg
+ create mode 120000 devices/auth-sim-symbolic.png
+ delete mode 100644 devices/auth-sim-symbolic.svg
+ create mode 100644 devices/auth-sim.png
+ create mode 120000 devices/auth-smartcard-symbolic.png
+ delete mode 100644 devices/auth-smartcard-symbolic.svg
+ create mode 100644 devices/auth-smartcard.png
+ create mode 120000 devices/battery-symbolic.png
+ delete mode 100644 devices/battery-symbolic.svg
+ delete mode 100644 devices/colorimeter-colorhug-symbolic.svg
+ delete mode 100644 devices/computer-apple-ipad-symbolic.svg
+ delete mode 100644 devices/computer-symbolic.svg
+ delete mode 100755 devices/display-projector-symbolic.svg
+ delete mode 100644 devices/drive-harddisk-ieee1394-symbolic.svg
+ create mode 120000 devices/drive-harddisk-solidstate-symbolic.png
+ delete mode 100644 devices/drive-harddisk-solidstate-symbolic.svg
+ delete mode 100755 devices/drive-multidisk-alt-symbolic.svg
+ delete mode 100755 devices/drive-multidisk-alt2-symbolic.svg
+ delete mode 100755 devices/headphones-symbolic.svg
+ delete mode 100644 devices/input-dialpad-symbolic.svg
+ delete mode 100644 devices/input-gaming-symbolic.svg
+ delete mode 100755 devices/input-gaming.svg
+ delete mode 100644 devices/input-keyboard-symbolic.svg
+ delete mode 100755 devices/input-keyboard-virtual.svg
+ delete mode 100644 devices/input-mouse-symbolic.svg
+ delete mode 100644 devices/input-tablet-symbolic.svg
+ delete mode 100644 devices/input-touchpad-symbolic.svg
+ delete mode 120000 devices/media-floppy.svg
+ delete mode 100755 devices/media-optical-mixed-cd.svg
+ create mode 120000 devices/media-tape-symbolic.png
+ delete mode 100644 devices/media-tape-symbolic.svg
+ delete mode 100644 devices/media-zip-symbolic.svg
+ create mode 120000 devices/modem-symbolic.png
+ delete mode 100644 devices/modem-symbolic.svg
+ delete mode 100644 devices/multimedia-player-apple-ipod-touch-symbolic.svg
+ delete mode 100755 devices/multimedia-player-ipod-mini-blue.svg
+ delete mode 100644 devices/multimedia-player-symbolic.svg
+ delete mode 100755 devices/multimedia-player.svg
+ delete mode 100755 devices/network-card.svg
+ delete mode 100644 devices/network-cellular-symbolic.svg
+ delete mode 100755 devices/network-vpn.svg
+ delete mode 100755 devices/network-wired-activated.svg
+ delete mode 100644 devices/network-wired-symbolic.svg
+ delete mode 100755 devices/network-wired-unavailable.svg
+ delete mode 120000 devices/network-wired.svg
+ delete mode 100755 devices/network-wireless-connected-00.svg
+ delete mode 100755 devices/network-wireless-connected-100.svg
+ delete mode 100755 devices/network-wireless-connected-25.svg
+ delete mode 100755 devices/network-wireless-connected-50.svg
+ delete mode 100755 devices/network-wireless-connected-75.svg
+ delete mode 100755 devices/network-wireless-disconnected.svg
+ delete mode 100644 devices/network-wireless-symbolic.svg
+ delete mode 120000 devices/network-wireless.svg
+ create mode 120000 devices/pda-symbolic.png
+ delete mode 100644 devices/pda-symbolic.svg
+ create mode 120000 devices/phone-old-symbolic.png
+ delete mode 100644 devices/phone-old-symbolic.svg
+ delete mode 100644 devices/printer-network-symbolic.svg
+ delete mode 100644 devices/printer-symbolic.svg
+ delete mode 100644 devices/scanner-symbolic.svg
+ delete mode 100755 devices/scanner.svg
+ delete mode 100755 devices/tablet.svg
+ create mode 120000 devices/thunderbolt-symbolic.png
+ delete mode 100644 devices/thunderbolt-symbolic.svg
+ create mode 120000 devices/uninterruptible-power-supply-symbolic.png
+ delete mode 100644 devices/uninterruptible-power-supply-symbolic.svg
+ delete mode 100644 devices/video-joined-displays-symbolic.svg
+ delete mode 100644 devices/video-single-display-symbolic.svg
+ delete mode 100755 emotes/face-angel-symbolic.svg
+ delete mode 100755 emotes/face-angry-symbolic.svg
+ delete mode 100755 emotes/face-confused-symbolic.svg
+ delete mode 100755 emotes/face-cool-symbolic.svg
+ delete mode 100755 emotes/face-crying-symbolic.svg
+ delete mode 100755 emotes/face-devilish-symbolic.svg
+ delete mode 100755 emotes/face-embarrassed-symbolic.svg
+ delete mode 100755 emotes/face-kiss-symbolic.svg
+ delete mode 100755 emotes/face-laugh-symbolic.svg
+ delete mode 100755 emotes/face-monkey-symbolic.svg
+ delete mode 100755 emotes/face-plain-symbolic.svg
+ delete mode 100755 emotes/face-raspberry-symbolic.svg
+ delete mode 100755 emotes/face-sad-symbolic.svg
+ delete mode 100755 emotes/face-shutmouth-symbolic.svg
+ delete mode 100755 emotes/face-sick-symbolic.svg
+ delete mode 100755 emotes/face-smile-big-symbolic.svg
+ delete mode 100755 emotes/face-smile-symbolic.svg
+ delete mode 100755 emotes/face-smirk-symbolic.svg
+ delete mode 100755 emotes/face-surprised-symbolic.svg
+ delete mode 100755 emotes/face-tired-symbolic.svg
+ delete mode 100755 emotes/face-uncertain-symbolic.svg
+ delete mode 100755 emotes/face-wink-symbolic.svg
+ delete mode 100755 emotes/face-worried-symbolic.svg
+ delete mode 100755 emotes/face-yawn-symbolic.svg
+ rewrite mimetypes/application-vnd.debian.binary-package.png (90%)
+ create mode 120000 mimetypes/application-vnd.sqlite.png
+ create mode 120000 mimetypes/application-vnd.sqlite3.png
+ rewrite mimetypes/application-x-addon.png (100%)
+ mode change 100755 => 120000
+ delete mode 100755 mimetypes/application-x-appliance-symbolic.svg
+ create mode 100644 mimetypes/application-x-kicad-pcb.png
+ create mode 100644 mimetypes/application-x-kicad-project.png
+ create mode 100644 mimetypes/application-x-kicad-schematic.png
+ create mode 120000 mimetypes/application-x-pkcs12.png
+ create mode 120000 mimetypes/audio-x-generic-symbolic.png
+ delete mode 100755 mimetypes/audio-x-generic-symbolic.svg
+ create mode 100755 mimetypes/database-generic.png
+ create mode 120000 mimetypes/package-x-generic-symbolic.png
+ delete mode 100755 mimetypes/package-x-generic-symbolic.svg
+ rewrite mimetypes/phatch-actionlist.png (99%)
+ create mode 120000 mimetypes/text-x-generic-symbolic.png
+ delete mode 100755 mimetypes/text-x-generic-symbolic.svg
+ create mode 120000 mimetypes/x-office-calendar-symbolic.png
+ delete mode 100755 mimetypes/x-office-calendar-symbolic.svg
+ create mode 100644 places/folder-steam.png
+ rewrite places/start-here-agnostic.png (100%)
+ mode change 120000 => 100755
+ create mode 120000 status/airplane-mode-symbolic.png
+ delete mode 100755 status/airplane-mode-symbolic.svg
+ create mode 120000 status/alarm-symbolic.png
+ delete mode 100755 status/alarm-symbolic.svg
+ create mode 120000 status/audio-volume-overamplified-symbolic.png
+ delete mode 100644 status/audio-volume-overamplified-symbolic.svg
+ create mode 120000 status/auth-sim-locked-symbolic.png
+ delete mode 100644 status/auth-sim-locked-symbolic.svg
+ delete mode 100644 status/auth-sim-locked.svg
+ create mode 120000 status/auth-sim-missing-symbolic.png
+ delete mode 100644 status/auth-sim-missing-symbolic.svg
+ delete mode 100644 status/auth-sim-missing.svg
+ create mode 120000 status/battery-empty-charging-symbolic.png
+ delete mode 100755 status/battery-empty-charging-symbolic.svg
+ create mode 120000 status/battery-level-0-charging-symbolic.png
+ delete mode 100644 status/battery-level-0-charging-symbolic.svg
+ create mode 120000 status/battery-level-0-symbolic.png
+ delete mode 100644 status/battery-level-0-symbolic.svg
+ create mode 120000 status/battery-level-10-charging-symbolic.png
+ delete mode 100644 status/battery-level-10-charging-symbolic.svg
+ create mode 120000 status/battery-level-10-symbolic.png
+ delete mode 100644 status/battery-level-10-symbolic.svg
+ create mode 120000 status/battery-level-100-charged-symbolic.png
+ delete mode 100644 status/battery-level-100-charged-symbolic.svg
+ create mode 120000 status/battery-level-100-symbolic.png
+ delete mode 100644 status/battery-level-100-symbolic.svg
+ create mode 120000 status/battery-level-20-charging-symbolic.png
+ delete mode 100644 status/battery-level-20-charging-symbolic.svg
+ create mode 120000 status/battery-level-20-symbolic.png
+ delete mode 100644 status/battery-level-20-symbolic.svg
+ create mode 120000 status/battery-level-30-charging-symbolic.png
+ delete mode 100644 status/battery-level-30-charging-symbolic.svg
+ create mode 120000 status/battery-level-30-symbolic.png
+ delete mode 100644 status/battery-level-30-symbolic.svg
+ create mode 120000 status/battery-level-40-charging-symbolic.png
+ delete mode 100644 status/battery-level-40-charging-symbolic.svg
+ create mode 120000 status/battery-level-40-symbolic.png
+ delete mode 100644 status/battery-level-40-symbolic.svg
+ create mode 120000 status/battery-level-50-charging-symbolic.png
+ delete mode 100644 status/battery-level-50-charging-symbolic.svg
+ create mode 120000 status/battery-level-50-symbolic.png
+ delete mode 100644 status/battery-level-50-symbolic.svg
+ create mode 120000 status/battery-level-60-charging-symbolic.png
+ delete mode 100644 status/battery-level-60-charging-symbolic.svg
+ create mode 120000 status/battery-level-60-symbolic.png
+ delete mode 100644 status/battery-level-60-symbolic.svg
+ create mode 120000 status/battery-level-70-charging-symbolic.png
+ delete mode 100644 status/battery-level-70-charging-symbolic.svg
+ create mode 120000 status/battery-level-70-symbolic.png
+ delete mode 100644 status/battery-level-70-symbolic.svg
+ create mode 120000 status/battery-level-80-charging-symbolic.png
+ delete mode 100644 status/battery-level-80-charging-symbolic.svg
+ create mode 120000 status/battery-level-80-symbolic.png
+ delete mode 100644 status/battery-level-80-symbolic.svg
+ create mode 120000 status/battery-level-90-charging-symbolic.png
+ delete mode 100644 status/battery-level-90-charging-symbolic.svg
+ create mode 120000 status/battery-level-90-symbolic.png
+ delete mode 100644 status/battery-level-90-symbolic.svg
+ create mode 120000 status/call-incoming-symbolic.png
+ delete mode 100644 status/call-incoming-symbolic.svg
+ create mode 120000 status/call-missed-symbolic.png
+ delete mode 100755 status/call-missed-symbolic.svg
+ create mode 120000 status/call-outgoing-symbolic.png
+ delete mode 100644 status/call-outgoing-symbolic.svg
+ create mode 120000 status/camera-disabled-symbolic.png
+ delete mode 100644 status/camera-disabled-symbolic.svg
+ create mode 120000 status/camera-hardware-disabled-symbolic.png
+ delete mode 100644 status/camera-hardware-disabled-symbolic.svg
+ create mode 120000 status/channel-insecure-symbolic.png
+ delete mode 100755 status/channel-insecure-symbolic.svg
+ create mode 120000 status/channel-secure-symbolic.png
+ delete mode 100755 status/channel-secure-symbolic.svg
+ rewrite status/computer-fail.png (99%)
+ delete mode 100644 status/contact-new-symbolic.svg
+ create mode 120000 status/content-loading-symbolic.png
+ delete mode 120000 status/content-loading-symbolic.svg
+ delete mode 100644 status/daytime-sunrise-symbolic.svg
+ delete mode 100644 status/daytime-sunset-symbolic.svg
+ delete mode 100644 status/disk-quota-critical.svg
+ delete mode 100644 status/disk-quota-high.svg
+ delete mode 100644 status/disk-quota-low.svg
+ delete mode 100644 status/disk-quota.svg
+ create mode 120000 status/display-brightness-symbolic.png
+ delete mode 100755 status/display-brightness-symbolic.svg
+ rewrite status/display-brightness.png (99%)
+ create mode 120000 status/flameshot-tray.png
+ delete mode 100644 status/flameshot-tray.svg
+ create mode 120000 status/folder-visiting-symbolic.png
+ delete mode 100644 status/folder-visiting-symbolic.svg
+ delete mode 100755 status/haguichi-connected.svg
+ delete mode 100755 status/haguichi-connecting-1.svg
+ delete mode 100755 status/haguichi-connecting-2.svg
+ delete mode 100755 status/haguichi-connecting-3.svg
+ delete mode 100755 status/haguichi-disconnected.svg
+ create mode 100644 status/irc-channel-joined.png
+ delete mode 120000 status/irc-channel-joined.svg
+ create mode 100644 status/irc-channel-parted.png
+ delete mode 120000 status/irc-channel-parted.svg
+ delete mode 100644 status/keepassxc-locked.svg
+ delete mode 120000 status/keepassxc-monochrome-light-locked.svg
+ delete mode 120000 status/keepassxc-monochrome-light.svg
+ delete mode 100644 status/keepassxc-unlocked.svg
+ delete mode 100755 status/keyboard-brightness-symbolic.svg
+ create mode 120000 status/location-services-active-symbolic.png
+ delete mode 100644 status/location-services-active-symbolic.svg
+ create mode 120000 status/location-services-active.png
+ create mode 120000 status/location-services-disabled-symbolic.png
+ delete mode 100644 status/location-services-disabled-symbolic.svg
+ create mode 100644 status/location-services-disabled.png
+ delete mode 100644 status/media-playback-stopped.svg
+ delete mode 100755 status/media-playlist-consecutive-rtl-symbolic.svg
+ delete mode 120000 status/media-playlist-consecutive-symbolic-rtl.svg
+ delete mode 100755 status/media-playlist-consecutive-symbolic.svg
+ delete mode 100755 status/media-playlist-repeat-rtl-symbolic.svg
+ delete mode 100755 status/media-playlist-repeat-song-rtl-symbolic.svg
+ delete mode 120000 status/media-playlist-repeat-song-symbolic-rtl.svg
+ delete mode 100755 status/media-playlist-repeat-song-symbolic.svg
+ delete mode 120000 status/media-playlist-repeat-symbolic-rtl.svg
+ delete mode 100644 status/media-playlist-repeat-symbolic.svg
+ delete mode 100755 status/media-playlist-shuffle-rtl-symbolic.svg
+ delete mode 120000 status/media-playlist-shuffle-symbolic-rtl.svg
+ delete mode 100644 status/media-playlist-shuffle-symbolic.svg
+ rewrite status/meeting-chair.png (99%)
+ rewrite status/meeting-observer.png (99%)
+ rewrite status/meeting-organizer.png (99%)
+ rewrite status/meeting-participant-optional.png (98%)
+ rewrite status/meeting-participant-reply.png (99%)
+ rewrite status/meeting-participant.png (99%)
+ create mode 120000 status/microphone-disabled-symbolic.png
+ delete mode 100644 status/microphone-disabled-symbolic.svg
+ create mode 120000 status/microphone-hardware-disabled-symbolic.png
+ delete mode 100644 status/microphone-hardware-disabled-symbolic.svg
+ create mode 120000 status/network-cellular-acquiring-symbolic.png
+ delete mode 100755 status/network-cellular-acquiring-symbolic.svg
+ create mode 120000 status/network-cellular-disabled-symbolic.png
+ delete mode 100644 status/network-cellular-disabled-symbolic.svg
+ create mode 120000 status/network-cellular-hardware-disabled-symbolic.png
+ delete mode 100644 status/network-cellular-hardware-disabled-symbolic.svg
+ create mode 120000 status/network-cellular-no-route-symbolic.png
+ delete mode 100755 status/network-cellular-no-route-symbolic.svg
+ create mode 120000 status/network-cellular-offline-symbolic.png
+ delete mode 100755 status/network-cellular-offline-symbolic.svg
+ create mode 120000 status/network-cellular-signal-excellent-symbolic.png
+ delete mode 100755 status/network-cellular-signal-excellent-symbolic.svg
+ create mode 120000 status/network-cellular-signal-good-symbolic.png
+ delete mode 100755 status/network-cellular-signal-good-symbolic.svg
+ create mode 120000 status/network-cellular-signal-none-symbolic.png
+ delete mode 100755 status/network-cellular-signal-none-symbolic.svg
+ create mode 120000 status/network-cellular-signal-ok-symbolic.png
+ delete mode 100755 status/network-cellular-signal-ok-symbolic.svg
+ create mode 120000 status/network-cellular-signal-weak-symbolic.png
+ delete mode 100755 status/network-cellular-signal-weak-symbolic.svg
+ create mode 120000 status/network-no-route-symbolic.png
+ delete mode 100755 status/network-no-route-symbolic.svg
+ create mode 120000 status/network-vpn-acquiring-symbolic.png
+ delete mode 100755 status/network-vpn-acquiring-symbolic.svg
+ create mode 120000 status/network-vpn-no-route-symbolic.png
+ delete mode 100644 status/network-vpn-no-route-symbolic.svg
+ create mode 120000 status/network-vpn-symbolic.png
+ delete mode 100755 status/network-vpn-symbolic.svg
+ create mode 120000 status/network-wired-acquiring-symbolic.png
+ delete mode 100755 status/network-wired-acquiring-symbolic.svg
+ delete mode 100644 status/network-wired-disconnected-symbolic.svg
+ delete mode 100755 status/network-wired-no-route-symbolic.svg
+ delete mode 100755 status/network-wired-offline-symbolic.svg
+ delete mode 100755 status/network-wired.svg
+ create mode 120000 status/network-wireless-acquiring-symbolic.png
+ delete mode 100755 status/network-wireless-acquiring-symbolic.svg
+ delete mode 100755 status/network-wireless-acquiring.svg
+ delete mode 100755 status/network-wireless-connected-00.svg
+ delete mode 100755 status/network-wireless-connected-100.svg
+ delete mode 100755 status/network-wireless-connected-25.svg
+ delete mode 100755 status/network-wireless-connected-50.svg
+ delete mode 100755 status/network-wireless-connected-75.svg
+ create mode 120000 status/network-wireless-connected-symbolic.png
+ delete mode 100755 status/network-wireless-connected-symbolic.svg
+ create mode 120000 status/network-wireless-disabled-symbolic.png
+ delete mode 100644 status/network-wireless-disabled-symbolic.svg
+ delete mode 100755 status/network-wireless-disconnected.svg
+ create mode 120000 status/network-wireless-hardware-disabled-symbolic.png
+ delete mode 100644 status/network-wireless-hardware-disabled-symbolic.svg
+ create mode 120000 status/network-wireless-hotspot-symbolic.png
+ delete mode 100755 status/network-wireless-hotspot-symbolic.svg
+ create mode 120000 status/network-wireless-no-route-symbolic.png
+ delete mode 100755 status/network-wireless-no-route-symbolic.svg
+ create mode 120000 status/network-wireless-offline-symbolic.png
+ delete mode 100755 status/network-wireless-offline-symbolic.svg
+ create mode 120000 status/network-wireless-signal-excellent-symbolic.png
+ delete mode 100755 status/network-wireless-signal-excellent-symbolic.svg
+ create mode 120000 status/network-wireless-signal-good-symbolic.png
+ delete mode 100755 status/network-wireless-signal-good-symbolic.svg
+ create mode 120000 status/network-wireless-signal-none-symbolic.png
+ delete mode 100755 status/network-wireless-signal-none-symbolic.svg
+ create mode 120000 status/network-wireless-signal-ok-symbolic.png
+ delete mode 100755 status/network-wireless-signal-ok-symbolic.svg
+ create mode 120000 status/network-wireless-signal-weak-symbolic.png
+ delete mode 100755 status/network-wireless-signal-weak-symbolic.svg
+ delete mode 100644 status/night-light-symbolic.svg
+ delete mode 120000 status/non-starred-symbolic.svg
+ create mode 120000 status/notifications-disabled-symbolic.png
+ delete mode 100644 status/notifications-disabled-symbolic.svg
+ delete mode 120000 status/pidgin-tray-available.svg
+ delete mode 120000 status/pidgin-tray-away.svg
+ delete mode 120000 status/pidgin-tray-busy.svg
+ delete mode 120000 status/pidgin-tray-email.svg
+ delete mode 120000 status/pidgin-tray-invisible.svg
+ delete mode 120000 status/pidgin-tray-offline.svg
+ delete mode 120000 status/pidgin-tray-pending.svg
+ delete mode 120000 status/pidgin-tray-xa.svg
+ create mode 120000 status/printer-warning-symbolic.png
+ delete mode 100755 status/printer-warning-symbolic.svg
+ delete mode 100755 status/process-working.svg
+ delete mode 120000 status/rating-unrated.svg
+ delete mode 100644 status/remmina-panel-inverted.svg
+ delete mode 100644 status/remmina-panel.svg
+ create mode 120000 status/screen-shared-symbolic.png
+ delete mode 100644 status/screen-shared-symbolic.svg
+ delete mode 120000 status/security-low-symbolic.svg
+ create mode 100644 status/slack-indicator-highlight.png
+ create mode 100644 status/slack-indicator-unread.png
+ create mode 120000 status/slack-indicator.png
+ delete mode 120000 status/system-lock-screen-symbolic.svg
+ delete mode 100644 status/task-past-due-symbolic.svg
+ delete mode 100644 status/thunderbolt-acquiring-symbolic.svg
+ delete mode 100644 status/touch-disabled-symbolic.svg
+ create mode 120000 status/touchpad-disabled-symbolic.png
+ delete mode 100755 status/touchpad-disabled-symbolic.svg
+ delete mode 120000 status/user-not-tracked-symbolic.svg
+ delete mode 120000 status/user-offline.svg
+ delete mode 100755 status/user-status-pending-symbolic.svg
+ delete mode 100644 status/user-trash-full-symbolic.svg
+ delete mode 100755 status/view-wrapped-rtl-symbolic.svg
+ delete mode 120000 status/view-wrapped-symbolic-rtl.svg
+ delete mode 100755 status/view-wrapped-symbolic.svg
+ delete mode 100644 status/weather-few-clouds-night-symbolic.svg
+ delete mode 100644 status/weather-tornado-symbolic.svg
+ delete mode 100644 status/weather-windy-symbolic.svg
+
